@@ -1,3 +1,6 @@
+# Technical repo:
+
+If you are interested in technology visit our official repo at: https://github.com/THCLab/
 # Community Calls
 
 Name/Meeting Page|Description|When and Where
