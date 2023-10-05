@@ -1,4 +1,4 @@
-https://ko-fi.com/img/githubbutton_sm.svg
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6JH4XP)
 
 # Community Calls
 
